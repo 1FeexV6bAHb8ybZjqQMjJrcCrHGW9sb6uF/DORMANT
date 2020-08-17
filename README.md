@@ -8,7 +8,8 @@ When we find the private key, all founded BTC will be distributed to all DORMANT
 The DORMANT token (bassed on Ethereum) will be swapped to the founded-BTC with ratio 1:1
 
 Smart Contract Address: 0x1890374e2C95aB816df2f554f1656978Af63a583
+
 Uniswap Exchange: https://app.uniswap.org/#/swap?outputCurrency=0x1890374e2C95aB816df2f554f1656978Af63a583
 
-You can buy, sell, and trade DORMANT on uniswap. 
-It's very young and experimental. Use at your own risk! DYOR! 
+
+You can buy, sell, and trade DORMANT on uniswap. It's very young and experimental. Use at your own risk! DYOR! 
